@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: '',
   paragraphOne: 'Hello! My name is Shubham Bajaj and I\'m a Jaipur-based developer. I work remotely on projects for clients.',
-  paragraphTwo: 'I have a diverse set of skills which includes HTML,CSS, Javascript, Angular, React, NodeJs, ExpressJs, Ionic, Git, Bootstrap, etc.',
+  paragraphTwo: 'I have a diverse set of skills which includes HTML,CSS, Javascript, Angular, React, NodeJs, ExpressJs, Ionic, Git, Bootstrap, React Native etc.',
   paragraphThree: 'I primarily work on Angular and React, but picking up a new framework or language isn\'t a problem. ',
   resume: 'https://drive.google.com/file/d/1_SJNL6O5Y4-Xgt-FV1n0lUr3tkBHkKnr/view', // if no resume, the button will not show up
 };
